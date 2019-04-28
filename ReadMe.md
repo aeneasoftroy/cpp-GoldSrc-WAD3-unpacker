@@ -38,7 +38,7 @@ Both the GoldSrc and Quake engine use the .WAD format to store and load textures
     Counter-Strike Online (Valve, NEXON, 2008) 
 
 ### Original source:
-    WAD3_source.zip (2001, 8 Januari)
+    WAD3_source.zip (2001, 8 Januari) VC++ 6.0
 
 ### Recompiled by:
-    Aeneas of Troy (2019, 28 april)
+    Aeneas of Troy (2019, 28 april) for Visual Studio 2008
