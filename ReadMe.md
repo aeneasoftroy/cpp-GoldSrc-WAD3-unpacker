@@ -3,7 +3,7 @@
 
 ### GoldSrc WAD3 unpacker
 
-Since this has no update since 2019 it's about time someone compiled a modern binary of the WAD3_source.
+Since this has no update since 2001 it's about time someone compiled a modern binary of the WAD3_source.
 
 WAD is the file extension for Half-Life texture packages. An acronym for Where's All the Data?, WAD files first originated in ID Software's Doom as a general purpose file archive to help facilitate game MODs. A format of the same name was later used in ID Software's Quake engine as a texture package, then consequentially adapted by Half-Life 1's GoldSrc engine. GoldSrc specifically uses version 3 of the format, sometimes referred to as WAD3. WAD files typically contain standard texture sets, custom texture sets for individual levels, sprays, HUD elements and fonts.
 
