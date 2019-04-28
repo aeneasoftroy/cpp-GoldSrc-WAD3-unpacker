@@ -11,6 +11,8 @@ WAD3 can store 3 types of data (however, WAD format itself allows up 256 types, 
 
 Both the GoldSrc and Quake engine use the .WAD format to store and load textures. The only differences between the two formats are that each texture in a GoldSrc .WAD file has its own palette, instead of sharing from one palette used by all of the textures, an ability to load multiple .WAD files in Half-Life; Quake uses only gfx.wad, and the file header; Quake uses WAD2, while GoldSrc uses WAD3. The WAD2 (and thus, WAD3) format itself is based on the WAD format used in the Doom engine.
 
+![alt text](https://github.com/aeneasoftroy/cpp-GoldSrc-WAD3-unpacker/blob/master/goldsrcwad3ex.png)
+
 ### The following types are supported by the WAD3 format:
 
 #### miptex (0x44)
