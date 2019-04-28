@@ -1,7 +1,7 @@
 ![alt text](https://github.com/aeneasoftroy/cpp-GoldSrc-WAD3-unpacker/blob/master/goldsrcwad3.png)
 
 
-##### GoldSrc WAD3 unpacker
+### GoldSrc WAD3 unpacker
 
 Since this has no update since 2019 it's about time someone compiled a modern binary of the WAD3_source.
 
